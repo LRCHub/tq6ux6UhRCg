@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Partner",
+  "base_artist": "有華",
+  "createdAt": "2026-03-06T11:36:11.863524Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Silent Partner",
+      "artist": "La Roux",
+      "has_synced": false,
+      "path": "select/01_Silent_Partner_La_Roux.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Guilty Partner",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/02_Guilty_Partner_New_Order.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Guilty Partner - 2015 Remastered Version",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/03_Guilty_Partner_-_2015_Remastered_Version_New_Order.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Guilty Partner (2015 Remastered Version)",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/04_Guilty_Partner_(2015_Remastered_Version)_New_Order.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "New Partner",
+      "artist": "Palace Music",
+      "has_synced": true,
+      "path": "select/05_New_Partner_Palace_Music.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Partner In Crime",
+      "artist": "Lit",
+      "has_synced": true,
+      "path": "select/06_Partner_In_Crime_Lit.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sparring Partner",
+      "artist": "Paolo Conte",
+      "has_synced": true,
+      "path": "select/07_Sparring_Partner_Paolo_Conte.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "New Partner",
+      "artist": "Mark Kozelek",
+      "has_synced": false,
+      "path": "select/08_New_Partner_Mark_Kozelek.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Guilty Partner (2015 Remaster)",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/09_Guilty_Partner_(2015_Remaster)_New_Order.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Partner to Lean on",
+      "artist": "Trace Mountains",
+      "has_synced": false,
+      "path": "select/10_A_Partner_to_Lean_on_Trace_Mountains.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Junco Partner",
+      "artist": "The Clash",
+      "has_synced": false,
+      "path": "select/11_Junco_Partner_The_Clash.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Partner In Crime",
+      "artist": "Over It",
+      "has_synced": false,
+      "path": "select/12_Partner_In_Crime_Over_It.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Death Is a Living Partner",
+      "artist": "Norma Jean",
+      "has_synced": true,
+      "path": "select/13_Death_Is_a_Living_Partner_Norma_Jean.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The New Partner Waltz (with Carl Jackson)",
+      "artist": "Linda Ronstadt",
+      "has_synced": true,
+      "path": "select/14_The_New_Partner_Waltz_(with_Carl_Jackson)_Linda_Ronstadt.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The New Partner Waltz [With Carl Jackson]",
+      "artist": "Linda Ronstadt",
+      "has_synced": true,
+      "path": "select/15_The_New_Partner_Waltz_[With_Carl_Jackson]_Linda_Ronstadt.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Junco Partner",
+      "artist": "Harry Connick, Jr.",
+      "has_synced": false,
+      "path": "select/16_Junco_Partner_Harry_Connick,_Jr..txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Junko Partner",
+      "artist": "Dr. John",
+      "has_synced": false,
+      "path": "select/17_Junko_Partner_Dr._John.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Partner",
+      "artist": "有華",
+      "has_synced": false,
+      "path": "select/pl_01_Partner_有華.txt"
+    }
+  ]
+}
